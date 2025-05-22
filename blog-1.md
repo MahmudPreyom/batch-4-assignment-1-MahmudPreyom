@@ -72,4 +72,7 @@ const adminUser: AdminUser = {
 console.log(`Admin User: ${adminUser.username}, Permissions: ${adminUser.permissions.join(", ")});
 ```
 
+run command add
+ts-node-dev --respawn --transpile-only ./src/problem-1.ts
+
 <!-- Intersection Type Example End -->
